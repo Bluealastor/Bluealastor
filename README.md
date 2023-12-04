@@ -2,7 +2,7 @@
 
 My name is Christian, I'm actually experimenting with a lot of things, GitHub it's my warehouse, maybe you can find something interesting here!
 
-<!-- my field of study:
-![alt text](https://www.shareicon.net/data/32x32/2015/10/04/111732_html5-icon_512x512.png)
+my field of study:
+[![alt text](https://www.shareicon.net/data/32x32/2015/10/04/111732_html5-icon_512x512.png)](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![alt text](https://www.shareicon.net/data/32x32/2015/09/25/107205_css_512x512.png)
-JavaScript Bootstrap Sass React -->
+JavaScript Bootstrap Sass React
