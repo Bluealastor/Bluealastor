@@ -4,4 +4,4 @@ My name is Christian, I'm actually experimenting with a lot of things, GitHub it
 
 my field of study:
 
-https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white
+![alt text](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
