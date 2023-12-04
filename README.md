@@ -43,10 +43,9 @@ Terminal
 WorkFlow
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
 
- </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="left">Tools:</h3>
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
