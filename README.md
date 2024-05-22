@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A passionate developer from Italia,GitHub it's my warehouse, maybe you can find something interesting here!</h3>
+<h3 align="center">A passionate developer from Italy,GitHub it's my warehouse, maybe you can find something interesting here!</h3>
 
 ---
 
